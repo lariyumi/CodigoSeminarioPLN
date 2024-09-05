@@ -4,6 +4,6 @@ Esse repositório contêm um código baseado no artigo "Creating an End-to-End S
 Criado para disciplina de PLN cursada no quadrimestre 2024.2 na UFABC.
 
 Integrantes do grupo:
-Derick Yudji Sato
-Júlia de Oliveira Rodrigues
+Derick Yudji Sato,
+Júlia de Oliveira Rodrigues,
 Larissa Yumi Ohashi
